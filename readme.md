@@ -15,7 +15,7 @@ You can change the guess file path in "guess_confirm_app.py"
 A sample guess file is "guess.csv"
 
 ## Image of App
-![The App](app_image.png "App Image")
+![The App](image1.png "App Image")
 
 # Future Updates:
 * Making Undo only record last n operations. Currently it records all operations, which could
