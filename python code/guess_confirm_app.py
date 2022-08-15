@@ -13,7 +13,7 @@ from PyQt5.QtWidgets import QApplication, QMainWindow, QPushButton, QVBoxLayout,
     QHBoxLayout, QWidget, QLabel, QMessageBox
 
 # user defined variables    
-guess_path = "../guess.csv"
+guess_path = "C:/Users/Seldon/Dropbox/WomenFederalGovt/data/Job title cleaning/guess.csv"
 
 class ParentWindow(QWidget):
     def __init__(self):

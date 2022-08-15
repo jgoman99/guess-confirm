@@ -7,7 +7,7 @@ the user then determines whether the string was correctly parsed/cleaned by clic
 buttons: 'bad string', 'confirm', and 'reject'. 'bad string' marks the input string as bad, and
 uncleanable. 'reject' marks the guess as invalid, and marks all guesses that are the same as invalid.
 'confirm' marks the guess as valid, and marks all guesses that are the same as valid. 'undo' undoes
-past work.
+past work. 'bad string' is keybound to 'a', 'reject' to 'w', 'confirm' to 'd'.
 
 You can change the guess file path in "guess_confirm_app.py" 
 `guess_path = "../guess.csv"`
