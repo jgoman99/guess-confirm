@@ -18,7 +18,7 @@ guess_path = "../guess.csv"
 class ParentWindow(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle('Confirm Titles')
+        self.setWindowTitle('Guess Confirm')
         # buttons
         self.confirm_button = QPushButton("Confirm")
         self.reject_button = QPushButton("Reject")
